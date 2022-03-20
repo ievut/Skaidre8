@@ -1,3 +1,3 @@
 # Skaidre8
 pakeitimai
-tikrinam ar veikia pull ir push sourcetree
+tikrinam ar veikia pull ir push sourcetr
