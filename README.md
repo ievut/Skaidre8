@@ -1,1 +1,2 @@
 # Skaidre8
+pakeitimai
